@@ -1,0 +1,376 @@
+<mahasiswa_list>
+    <mahasiswa>
+        <nama>Victress</nama>
+        <nim>672022235</nim>
+        <umur>19</umur>
+        <hobi>Mendengarkan musik</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Imam Adi Wicaksana</nama>
+        <nim>672024123</nim>
+        <umur>19</umur>
+        <hobi>Membaca buku</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Jonathan Krisna Petra Saputro</nama>
+        <nim>672024093</nim>
+        <umur>19</umur>
+        <hobi>Bermain game</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Abel Josiah Pambudi</nama>
+        <nim>672024005</nim>
+        <umur>19</umur>
+        <hobi>Model kit</hobi>
+        <hobi>Figure</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Christian Peter Wiyoso</nama>
+        <nim>672024048</nim>
+        <umur>19</umur>
+        <hobi>Masak</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Yohanes Widi Prasetyanto</nama>
+        <nim>672024043</nim>
+        <umur>19</umur>
+        <hobi>Renang</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>William Prasetyo Utomo</nama>
+        <nim>672024125</nim>
+        <umur>20</umur>
+        <hobi>Ngoding</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+        <mata_kuliah>Deep Learning</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Andaru Hanif Pergita</nama>
+        <nim>672024094</nim>
+        <umur>19</umur>
+        <hobi>Makan</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+        <mata_kuliah>Deep Learning</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Bezaliel Hosana Sayoga</nama>
+        <nim>672024208</nim>
+        <umur>20</umur>
+        <hobi>Bermain</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Kewirausahaan</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Nathaniel Ananta Putra</nama>
+        <nim>672024042</nim>
+        <umur>20</umur>
+        <hobi>Masak</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Kewirausahaan</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Amrizal Muhammad Yusuf</nama>
+        <nim>672022270</nim>
+        <umur>21</umur>
+        <hobi>Bermain game</hobi>
+        <mata_kuliah>ISBD</mata_kuliah>
+        <mata_kuliah>TTU2</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>IDPS</mata_kuliah>
+        <mata_kuliah>Pengantar Bisnis</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Zefanya Derby Gracia Lengkong</nama>
+        <nim>672024071</nim>
+        <umur>20</umur>
+        <hobi>Menonton anime</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Erlangga Bintang Pratama</nama>
+        <nim>672024190</nim>
+        <umur>20</umur>
+        <hobi>Mendengarkan musik</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Matdelda Geovani</nama>
+        <nim>672024154</nim>
+        <umur>20</umur>
+        <hobi>Memanjat</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>Kewarganegaraan</mata_kuliah>
+        <mata_kuliah>Kewirausahaan</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Maulana</nama>
+        <nim>672024062</nim>
+        <umur>20</umur>
+        <hobi>Otomotif</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Jonathan</nama>
+        <nim>672024083</nim>
+        <umur>20</umur>
+        <hobi>Mendengarkan musik</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Kewirausahaan</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Enrico</nama>
+        <nim>672024249</nim>
+        <umur>19</umur>
+        <hobi>Menonton</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Bahasa Indonesia</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Leonardo</nama>
+        <nim>672024051</nim>
+        <umur>19</umur>
+        <hobi>Pembalap</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Bahasa Indonesia</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Veren Nouvellia Kusuma</nama>
+        <nim>672024199</nim>
+        <umur>19</umur>
+        <hobi>Mendengarkan musik</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Daffa Eldo Firmansyah</nama>
+        <nim>672024034</nim>
+        <umur>19</umur>
+        <hobi>Menonton film</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Bahasa Indonesia</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Jeremy Thimotius Ratungalo</nama>
+        <nim>672024243</nim>
+        <umur>19</umur>
+        <hobi>Sepak bola</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Bahasa Indonesia</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Raphael Mathew</nama>
+        <nim>672024241</nim>
+        <umur>19</umur>
+        <hobi>Bermain game</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>David Aryo Satyananda</nama>
+        <nim>672024169</nim>
+        <umur>18</umur>
+        <hobi>Bermain gitar</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Kewarganegaraan</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Vincent Danis Lekaehena</nama>
+        <nim>672024024</nim>
+        <umur>19</umur>
+        <hobi>Masak</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Fransisca Lintang Alfani</nama>
+        <nim>672024029</nim>
+        <umur>19</umur>
+        <hobi>Membaca</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Bahasa Indonesia</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Kanaka Jose</nama>
+        <nim>672024226</nim>
+        <umur>18</umur>
+        <hobi>Bermain game</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Jonatan Ega Valerian</nama>
+        <nim>672024114</nim>
+        <umur>19</umur>
+        <hobi>Bermain game</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Bahasa Indonesia</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Vanessa Refti Putri</nama>
+        <nim>672024137</nim>
+        <umur>20</umur>
+        <hobi>Mendengarkan musik</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>PKE</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Deska Natalia</nama>
+        <nim>672024136</nim>
+        <umur>18</umur>
+        <hobi>Membaca komik</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Kewarganegaraan</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Stvan Latupeirissa</nama>
+        <nim>672024099</nim>
+        <umur>19</umur>
+        <hobi>Menonton orang bicara</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Pendidikan Agama Kristen</mata_kuliah>
+    </mahasiswa>
+
+    <mahasiswa>
+        <nama>Remon</nama>
+        <nim>672024096</nim>
+        <umur>19</umur>
+        <hobi>Belajar</hobi>
+        <mata_kuliah>PBO</mata_kuliah>
+        <mata_kuliah>AI</mata_kuliah>
+        <mata_kuliah>DPJ</mata_kuliah>
+        <mata_kuliah>PWEB</mata_kuliah>
+        <mata_kuliah>Kewirausahaan</mata_kuliah>
+    </mahasiswa>
+</mahasiswa_list>

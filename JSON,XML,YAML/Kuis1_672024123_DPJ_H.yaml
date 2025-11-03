@@ -1,0 +1,344 @@
+- nama: Victress
+  nim: '672022235'
+  umur: 19
+  hobi:
+    - Mendengarkan musik
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Imam Adi Wicaksana
+  nim: '672024123'
+  umur: 19
+  hobi:
+    - Membaca buku
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Jonathan Krisna Petra Saputro
+  nim: 672024093
+  umur: 19
+  hobi:
+    - Bermain game
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Abel Josiah Pambudi
+  nim: 672024005
+  umur: 19
+  hobi:
+    - Model kit
+    - Figure
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Christian Peter Wiyoso
+  nim: 672024048
+  umur: 19
+  hobi:
+    - Masak
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Yohanes Widi Prasetyanto
+  nim: 672024043
+  umur: 19
+  hobi:
+    - Renang
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: William Prasetyo Utomo
+  nim: 672024125
+  umur: 20
+  hobi:
+    - Ngoding
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+    - Deep Learning
+- nama: Andaru Hanif Pergita
+  nim: 672024094
+  umur: 19
+  hobi:
+    - Makan
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+    - Deep Learning
+- nama: Bezaliel Hosana Sayoga
+  nim: 672024208
+  umur: 20
+  hobi:
+    - Bermain
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Kewirausahaan
+- nama: Nathaniel Ananta Putra
+  nim: 672024042
+  umur: 20
+  hobi:
+    - Masak
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Kewirausahaan
+- nama: Amrizal Muhammad Yusuf
+  nim: 672022270
+  umur: 21
+  hobi:
+    - Bermain game
+  mata_kuliah:
+    - ISBD
+    - TTU2
+    - DPJ
+    - IDPS
+    - Pengantar Bisnis
+- nama: Zefanya Derby Gracia Lengkong
+  nim: 672024071
+  umur: 20
+  hobi:
+    - Menonton anime
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Erlangga Bintang Pratama
+  nim: 672024190
+  umur: 20
+  hobi:
+    - Mendengarkan musik
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Matdelda Geovani
+  nim: 672024154
+  umur: 20
+  hobi:
+    - Memanjat
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - Kewarganegaraan
+    - Kewirausahaan
+- nama: Maulana
+  nim: 672024062
+  umur: 20
+  hobi:
+    - Otomotif
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Jonathan
+  nim: 672024083
+  umur: 20
+  hobi:
+    - Mendengarkan musik
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Kewirausahaan
+- nama: Enrico
+  nim: 672024249
+  umur: 19
+  hobi:
+    - Menonton
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Bahasa Indonesia
+- nama: Leonardo
+  nim: 672024051
+  umur: 19
+  hobi:
+    - Pembalap
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Bahasa Indonesia
+- nama: Veren Nouvellia Kusuma
+  nim: 672024199
+  umur: 19
+  hobi:
+    - Mendengarkan musik
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Daffa Eldo Firmansyah
+  nim: 672024034
+  umur: 19
+  hobi:
+    - Menonton film
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Bahasa Indonesia
+- nama: Jeremy Thimotius Ratungalo
+  nim: 672024243
+  umur: 19
+  hobi:
+    - Sepak bola
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Bahasa Indonesia
+- nama: Raphael Mathew
+  nim: 672024241
+  umur: 19
+  hobi:
+    - Bermain game
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: David Aryo Satyananda
+  nim: 672024169
+  umur: 18
+  hobi:
+    - Bermain gitar
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Kewarganegaraan
+- nama: Vincent Danis Lekaehena
+  nim: 672024024
+  umur: 19
+  hobi:
+    - Masak
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Fransisca Lintang Alfani
+  nim: 672024029
+  umur: 19
+  hobi:
+    - Membaca
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Bahasa Indonesia
+- nama: Kanaka Jose
+  nim: 672024226
+  umur: 18
+  hobi:
+    - Bermain game
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Jonatan Ega Valerian
+  nim: 672024114
+  umur: 19
+  hobi:
+    - Bermain game
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Bahasa Indonesia
+- nama: Vanessa Refti Putri
+  nim: 672024137
+  umur: 20
+  hobi:
+    - Mendengarkan musik
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - PKE
+- nama: Deska Natalia
+  nim: 672024136
+  umur: 18
+  hobi:
+    - Membaca komik
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Kewarganegaraan
+- nama: Stvan Latupeirissa
+  nim: 672024099
+  umur: 19
+  hobi:
+    - Menonton orang bicara
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Pendidikan Agama Kristen
+- nama: Remon
+  nim: 672024096
+  umur: 19
+  hobi:
+    - Belajar
+  mata_kuliah:
+    - PBO
+    - AI
+    - DPJ
+    - PWEB
+    - Kewirausahaan
